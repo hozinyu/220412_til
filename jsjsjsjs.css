@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "doorijua";
+    font-style: normal;
+    font-weight: 400;
+    src:url('./BMJUA_ttf.ttf') format('truetype');
+}
+body {font-family: 'doorijua',cursive;}
+
+p {text-decoration: tomato solid overline;
+    font-size: 18px;}
+
+span { text-transform: uppercase;
+    text-shadow: 6px 3px 2px pink;}
